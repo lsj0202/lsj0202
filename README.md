@@ -32,7 +32,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Github-black?style=flat-round&logo=Github&logoColor=white"/>
 </div>
 <br><br><br>
-<div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoung931014&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsj0202&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
