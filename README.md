@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
-<b>🛠Tools🛠</b>
-</div>
 
 <div align="center">
+  <b>🛠Tools🛠</b>
   <img src="https://img.shields.io/badge/Visual Studio code-24acf2?style=flat-round&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-black?style=flat-round&logo=Github&logoColor=white"/>
 </div>
