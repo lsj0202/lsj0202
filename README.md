@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsj0202)](https://github.com/lsj0202/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=lsj0202)](https://github.com/lsj0202/github-readme-stats)
