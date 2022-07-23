@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <h2>My stack 🌱</h2>
 <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-whiteblue?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white"/>
