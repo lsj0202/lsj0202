@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>My stack 🌱</h2>
-<img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=E34F26&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
