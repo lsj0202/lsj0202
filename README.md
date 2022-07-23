@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h2>My stack 🌱</h2>
+  <h2>🌱 My stack 🌱</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -32,10 +32,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Github-black?style=flat-round&logo=Github&logoColor=white"/>
 </div>
 <br><br><br>
-<div align="right">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj0202&show_icons=true&theme=radical)
-</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsj0202&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 
