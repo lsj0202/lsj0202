@@ -1,0 +1,63 @@
+no data center --> public cloud
+two char public cloud --> metered, self service
+
+onpremise 100 server additional resource 
+--> hybrid 
+
+extend the capacity of its public cloud --> o
+
+only guest --> no
+
+on pre -> AZ migrate --> shared resource
+
+third- party --> public
+
+az,on pre --> hybrid
+
+extend resource --> 가능
+
+deploy server --> private, hybrid
+
+capital --> public
+security --> private
+onpre -> AZ --> hybrid
+
+크기가 작은곳에서 큰곳으로 가는것 X
+(company --> physical server) -->No
+
+50 50 hybrid
+
+public preview --> SLA x
+All az customer -> preview
+
+private -- public -- general O
+
+Az service decreas X
+
+private preview --> 신청한 사람만 쓸 수 있다.
+public privew --> all az customer(SLAx)
+
+general -->subset all customer
+
+========================================
+pay as you go --> opex( operational expenditure model )
+Az provide (flexible)
+same --> x
+========================================
+ geo-clustered --> read only geo-cluster
+ avalabilty --> two vm, two avalability zone
+ data center --> avalabilty zone,regions(O)
+ data center --> resource group(x),scale set(x)
+ 한곳이 고장나도 다른한곳이 작동하는것: fault tolerance
+ 1일차: 100만원, 2일차: 1000만원 --> elasticity
+ Site --> disaster recovery(재난 복구)
+ Dater warehouse --> HA is built into the platform
+ (Avalabilty zone --> Data center )*****
+ Availability zones are used to replicate data and applications to (multiple regions.) --> 근처 지역만 가능 하다
+99.99 --> (VM)2:(Av zone)2
+Availbilty zone in physical -> a single AZ region
+AVzone -->multiple regions(x)
+AZ data center --> low - latency
+
+========================================
+
