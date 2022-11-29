@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div class="img1" style="text-align: center;">
-  <img src="http://i1.wp.com/misfits.kr/wp-content/uploads/2016/10/media3.giphy_.com_media_rOEvmLAxxcE1i_giphy.gif?resize=400%2C288" alt="조커">
-</div>
+<img src="http://i1.wp.com/misfits.kr/wp-content/uploads/2016/10/media3.giphy_.com_media_rOEvmLAxxcE1i_giphy.gif?resize=400%2C288" alt="조커">
+<h2 style="color: gray">하루하루 꾸준히</h2>
