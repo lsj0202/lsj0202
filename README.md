@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  .img1{
-    text-align : center;
-  } 
-</style>
-<div class="img1">
+<div class="img1" style="text-align: center;">
   <img src="http://i1.wp.com/misfits.kr/wp-content/uploads/2016/10/media3.giphy_.com_media_rOEvmLAxxcE1i_giphy.gif?resize=400%2C288" alt="조커">
 </div>
