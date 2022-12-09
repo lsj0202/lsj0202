@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<h3 align="center"><img src="http://i1.wp.com/misfits.kr/wp-content/uploads/2016/10/media3.giphy_.com_media_rOEvmLAxxcE1i_giphy.gif?resize=400%2C288" alt=""></h3>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj0202)](https://solved.ac/lsj0202)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lsj0202)](https://solved.ac/lsj0202)
-<h3 align="center"><img src="http://i1.wp.com/misfits.kr/wp-content/uploads/2016/10/media3.giphy_.com_media_rOEvmLAxxcE1i_giphy.gif?resize=400%2C288" alt=""></h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lsj0202&show_icons=true&locale=en&layout=compact" alt="l" /></p>
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lsj0202&show_icons=true&locale=en&layout=compact" alt="l" /></p>
 
