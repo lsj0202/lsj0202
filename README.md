@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj0202)](https://solved.ac/lsj0202)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lsj0202)](https://solved.ac/lsj0202)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lsj0202&show_icons=true&locale=en&layout=compact" alt="l" /></p>
