@@ -1,5 +1,6 @@
 ### <h1 align="center">Hi I'm SangJin 👋</h1>
 
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyMDEwMzFfMjA3/MDAxNjA0MTU0Mjk3MTk2.IZYcZdgw3McVpmmpK9gZeFBe3sxaOcPLOuL6i559ew8g.ZRmSzIw6JUPWNYZ2AZT2jYDLnAeNhv7fVzE-tZ6LIYYg.GIF.studygir/djGyeic_%283%29.gif?type=w2">
 <!--
 **lsj0202/lsj0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
