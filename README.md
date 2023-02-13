@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi I'm SangJin 👋</h1>
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/75/9f/f1/759ff125fdedeafd3efe68514b70b120.gif">
+<img src="https://i.pinimg.com/originals/75/9f/f1/759ff125fdedeafd3efe68514b70b120.gif">{: width="100%" height="100%"}
 </div>
 
 <!--
